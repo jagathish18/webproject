@@ -1,0 +1,64 @@
+body {
+    font-family: "Times New Roman", serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+}
+
+header {
+    background: #003366;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.hero {
+    background: #0066cc;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+.courses {
+    padding: 20px;
+    text-align: center;
+}
+
+.course-box {
+    background: white;
+    padding: 20px;
+    margin: 10px auto;
+    width: 60%;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px #ccc;
+}
+
+form {
+    width: 60%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px #ccc;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+button {
+    padding: 10px 20px;
+    background: #003366;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
